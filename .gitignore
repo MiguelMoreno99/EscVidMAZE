@@ -1,0 +1,27 @@
+# Ignorar carpetas generadas
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Ignorar archivos de configuración de usuario
+*.user
+*.userprefs
+*.usersettings
+*.VC.db
+*.suo
+*.opensdf
+.vscode/
+.vs/
+
+# Ignorar contenido generado de plugins
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# Ignorar archivos de plataformas específicas
+*.DS_Store
+*.appleprovision
+
+# Ignorar otras carpetas específicas del sistema operativo
+Thumbs.db

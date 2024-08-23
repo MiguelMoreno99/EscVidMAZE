@@ -6,8 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/Maze.umap",
-				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/Untitled_HLOD0_Instancing.uasset",
-				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I.uasset",
@@ -72,10 +70,6 @@
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN.uasset",
-				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalObjects__/Untitled/C/C4/PL59VOBUGOCMXAS1FTKQ9E.uasset",
-				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/Untitled.umap",
-				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/TEXTURA_ROCA.uasset",
-				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/ROCA/M_TERRENOROCOSO.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/ROCA/M_TERRENO_ROCOSO.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/ROCA_2/M_TERRENO_ROCOSO.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/ROCA/AmbientOcclusionMap.uasset",
@@ -91,7 +85,18 @@
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/LABERINTO/MATERIAL_LABERINO.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/_GENERATED/mmd/Box_CE2407A7.uasset",
 				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/_GENERATED/mmd/Box_E6E4D0C1.uasset",
-				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/LABERINTO/Laberinto.uasset"
+				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/LABERINTO/Laberinto.uasset",
+				"C:/REPOSITORIOS/ESCENARIOS_VIDEOJUEGOS/EscVidMAZE/Content/Maze.umap",
+				"C:/REPOSITORIOS/ESCENARIOS_VIDEOJUEGOS/EscVidMAZE/Content/Maze_sharedassets/Layer_Roca1_LayerInfo.uasset",
+				"C:/REPOSITORIOS/ESCENARIOS_VIDEOJUEGOS/EscVidMAZE/Content/Maze_sharedassets/Layer_Roca2_LayerInfo.uasset",
+				"C:/REPOSITORIOS/ESCENARIOS_VIDEOJUEGOS/EscVidMAZE/Content/Maze_sharedassets/Layer_Tierra_LayerInfo.uasset",
+				"C:/REPOSITORIOS/ESCENARIOS_VIDEOJUEGOS/EscVidMAZE/Content/Maze_sharedassets/Layer_Pasto_LayerInfo.uasset",
+				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/Untitled_HLOD0_Instancing.uasset",
+				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
+				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/__ExternalObjects__/Untitled/C/C4/PL59VOBUGOCMXAS1FTKQ9E.uasset",
+				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/Untitled.umap",
+				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/TEXTURA_ROCA.uasset",
+				"C:/Users/mmd-/OneDrive/Documentos/Unreal Projects/MazeOfTheNigth/Content/ROCA/M_TERRENOROCOSO.uasset"
 			]
 		}
 	]
